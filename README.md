@@ -1,7 +1,7 @@
 # Bitcoin_Song
 An Open Source Rap/R&amp;B Song About Bitcoin
 
-I’ve been wanting to write a song about Bitcoin for some time now.  Seeing how Bitcoin is a decentralized open source payment network. Why now make an Open Sourced song about it?
+I’ve been wanting to write a song about Bitcoin for some time now.  Seeing how Bitcoin is a decentralized open source payment network. Why not make an Open Sourced song about it?
 
 The song should be both positive and uplifting. Let’s talk about the benefits of having a decentralized currency. 
 
