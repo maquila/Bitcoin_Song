@@ -5,9 +5,11 @@ I’ve been wanting to write a song about Bitcoin for some time now.  Seeing how
 
 The song should be both positive and uplifting. Let’s talk about the benefits of having a decentralized currency. 
 
-The song will have three 16 bar verses with a chorus after each verse. As of right now I’m basing the song of this rhythm and tempo https://www.youtube.com/watch?v=ev0iaiZP58g. 
+The song will have three 16 bar verses with a chorus after each verse. As of right now I’m basing the song off the rhythm and tempo of this intrumental https://www.youtube.com/watch?v=ev0iaiZP58g. 
 
 Every line should be equal to a half-bar. That makes two lines a bar. So 1 verse will be 32 lines.
+
+I'm hoping we can come up with a minimum of 4 bars for the chorus. Anything less may be to repetitive.
 
 The Final song will have an instrumental created specifically for it. Tony Satori will be recording the song in a professional studio. 
 
