@@ -9,7 +9,7 @@ The song will have three 16 bar verses with a chorus after each verse. As of rig
 
 Every line should be equal to a half-bar. That makes two lines a bar. So 1 verse will be 32 lines.
 
-I'm hoping we can come up with a minimum of 4 bars for the chorus. Anything less may be to repetitive.
+I'm hoping we can come up with a minimum of 4 bars for the chorus. Anything less may be too repetitive.
 
 The Final song will have an instrumental created specifically for it. Tony Satori will be recording the song in a professional studio. 
 
